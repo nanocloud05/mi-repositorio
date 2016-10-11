@@ -1,1 +1,0 @@
-taskkill /f /fi "username eq hyujra"
